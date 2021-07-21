@@ -1,6 +1,6 @@
-## Katherine Burke
+## Katherine Burke 
 
-### Summer 2021 
+### Summer 2021 c
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
@@ -23,4 +23,9 @@ I am _passionate about_:
 
 ***
 
-> Last modified: 2021/07/07
+| Prefix      | Number      | Name      |Credits    |
+| :----------- | :----------- |:-----------|:-----------|
+| **COP**    | **2073**       |*Introduction to Data Science*         |3           |
+| **MAC**   | **1147**        |*Precalculus Algebra/Trigonometry*          |4           |
+
+> Last modified: 2021/20/07
